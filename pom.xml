@@ -51,11 +51,7 @@
                     <artifactId>maven-pmd-plugin</artifactId>
                     <version>${pmd.version}</version>
                 </plugin>
-                <plugin>
-                     <groupId>org.apache.maven.plugins</groupId>
-                     <artifactId>maven-war-plugin</artifactId>
-                     <version>2.2</version>
-                </plugin>
+                
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-checkstyle-plugin</artifactId>
